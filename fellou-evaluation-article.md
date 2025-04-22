@@ -1,8 +1,22 @@
+---
+title: "Fellou浏览器全面深度测评"
+subtitle: "V0.1.0"
+date: 2025-04-23
+author: [南川]
+lang: "zh-CN"
+titlepage: true
+titlepage-color: "5D1EB1"         # 飞脑科技主紫色
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFE600"    # 强调黄作为分隔线
+titlepage-rule-height: 2
+titlepage-logo: /Users/mark/飞脑科技/assets/branding/cs-magic_logo_white_1280.png
+---
+
 # AI与浏览器的强强联合：Fellou浏览器全面深度测评
 
 *文章撰写于2025年4月23日，南川*
 
-![Fellou浏览器](https://cdn.xxxxx.com/images/fellou-browser-header.png)
+![Fellou 浏览器](./cover.png)
 
 近期，AI浏览器赛道持续火热，Dia、Manus、Arc Search等产品纷纷入局，试图重新定义我们与互联网的交互方式。而今天我们要聊的主角——Fellou浏览器，以其独特的AI Agentic技术为核心，正在尝试将浏览器从"信息获取工具"进阶为"自动化任务执行助手"。
 
