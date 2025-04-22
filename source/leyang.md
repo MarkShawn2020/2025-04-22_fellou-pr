@@ -1,0 +1,13 @@
+生成速度确实是惊人的，然鹅在完成一个task是关于南美的应用研究，报告输出用了西班牙语，试图在对话框里输入把报告调成中文，未果，输出了一段类似定价策略的内容，但不是报告全文。误点了more comprehensive，报告重新开始制作，一直显示在generate。 随即开启了新的任务，也一直卡在生成报告的界面，等待了30分钟，基本确认是卡住了for some reason, 如图示：
+
+![](https://loklokteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTRjZDgxZGFhNWIxY2M1ODBkNDY5ODFmMjQwODE0YzBfUG41QzdEZHBHaXd0SVhzTFNTYno2VExCclZBM1Z5bnNfVG9rZW46U0JabGJxRjFwb0cyQVB4UEVZcWNDYlgxbmliXzE3NDUzMzM5MjA6MTc0NTMzNzUyMF9WNA)
+
+从之前的几个结果看，呈现效果80分，内容深度70分，有一个case生成了5个tab，但是点击3 4tab时，界面出错无，显示的是第一个tab的内容。另两个报告，出现了重启软件后无法打开的情况。
+
+![](https://loklokteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YWI0YzAwNTIwZTZjYmI0ZDNmNTYzNjhmMGE4NzNhNzlfQXlnU0RUTE5KU2pXQ2I0WVJFcUJhUXJlQWhNV080MGpfVG9rZW46WUlMOGI4b0E0b2ZDSVh4T29IMmNubXJobm5mXzE3NDUzMzM5MjA6MTc0NTMzNzUyMF9WNA)![](https://loklokteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NmZhNTMxYjBmMWRjYzY2ZTI5ZjgzNGNhM2I0NTk4MDNfcGlERURMMlFwakNiSUZPVlpJYTAxMHJIb01RWVh0WWdfVG9rZW46Ukh2M2JHelhkb1M1alZ4aHdLWGNiUklobnBoXzE3NDUzMzM5MjA6MTc0NTMzNzUyMF9WNA)
+
+任重道远，但愿意继续小白鼠。
+
+白天重新跑了2个任务，出现任务重新打开丢失的情况：右侧是国家A的报告（上一次生成），打开后是国家B的报告（后一次生成）
+
+![](https://loklokteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YmFjMWUwYzYzMDJhYmE0MTJhMjg4ZmU1YjE2NWE0YWNfZ1d1cTFXekR5WHVtVXB2ZFZQS0JZUG82NXJHZ0piOW5fVG9rZW46TXVwRGJCNERob3JFQ3p4MjNjVGNyQ2ZWbkpkXzE3NDUzMzM5MjA6MTc0NTMzNzUyMF9WNA)
